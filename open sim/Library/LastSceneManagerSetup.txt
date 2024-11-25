@@ -1,1 +1,21 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Triangularity/ColorfulCity/Scenes/All Buildings Colors.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Triangularity/ColorfulCity/Scenes/Buildings Showcase.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Triangularity/ColorfulCity/Scenes/City (Main scene).unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Triangularity/ColorfulCity/Scenes/Props Showcase.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/heheboi_v1.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
